@@ -15,12 +15,9 @@
     <a href="https://www.notion.so/homputer/Notion-3a51e19fa20a4c08a3c1d281a7a2c741">
         <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
-  
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=easyhomputer&theme=default)](https://easyhomputer.tistory.com)
-</div><br>
 
-    
-## 🔨 Once I've used 🔨
+
+ ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
@@ -48,6 +45,11 @@
     <br>
 </div><br>
 </div>
+
+
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=easyhomputer&theme=default)](https://easyhomputer.tistory.com)
+</div><br>
+
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
