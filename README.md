@@ -4,9 +4,8 @@
 ---
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:5C2774,50:335CC5,100:637FFD&text=Welcome%20to%20Ahmed's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 ---
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:CF91FF,100:5782F5&text=Welcome%20to%20Ahmed's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=300)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:CF91FF,100:5782F5&text=Welcome%20to%20Ahmed's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=30&height=300)
 ---
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontAlign=40)
 
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiholee0&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/Ahmedkel)
  
