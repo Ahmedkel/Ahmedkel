@@ -1,6 +1,6 @@
 <div align="left">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:CF91FF,100:5782F5&text=Welcome%20to%20Ahmed's%20GitHub%20👋&animation=twinkling&fontColor=eaeaea&fontSize=35&fontAlignY=38&fontAlign=32&height=250&desc=A%20%Passionate%20Software%20developer!&descAlignY=50&descAlign=20.5)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:CF91FF,100:5782F5&text=Welcome%20to%20Ahmed's%20GitHub%20👋&animation=twinkling&fontColor=eaeaea&fontSize=35&fontAlignY=38&fontAlign=32&height=250&desc=A%20%Passionate%20Software%20engineer!&descAlignY=50&descAlign=20.5)
 ---
 
  ## 🔨 Technologies I've used 🔨
