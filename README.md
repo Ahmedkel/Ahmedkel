@@ -4,7 +4,7 @@
 ---
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:5C2774,50:335CC5,100:637FFD&text=Welcome%20to%20Ahmed's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 ---
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:CF91FF,100:5782F5&text=Welcome%20to%20Ahmed's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:CF91FF,100:5782F5&text=Welcome%20to%20Ahmed's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=300)
 
 
 
