@@ -9,11 +9,7 @@
 
 
 ## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
-    <a href="mailto: ahmedkeloch@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-</div>
+[<img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-brand-brands-gmail-logo-logos-icon-22.png" width="53" alt="logo gmail png brand brands gmail logo logos icon" /></a>](mailto:ahmedkeloch@gmail.com)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Hhh&icon=0&color=0)](https://visitcount.itsvg.in)
